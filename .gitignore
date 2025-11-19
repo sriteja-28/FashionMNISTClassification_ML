@@ -1,0 +1,17 @@
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+
+bck_fashionml3_env/
+__pycache__/
+*.pyc
+
+
+.env
+*.env.local
+.DS_Store
+Thumbs.db
+
+
+.vscode/
